@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 Sobre mi </h3>
 Disfrutando de una transición laboral a QA Engineer
 
+- 💬 Entusiasmada por aplicar mis conocimientos para optimizar pruebas manuales y automatizadas.
 - 🤔 &nbsp; Explorando nuevas tecnologías de testing de software
 - 🎓 &nbsp; Estudie Ingenieria Geofísica en el Instituto Politécnico Nacional y me certifique como QA Engineer en Tripleten Bootcamp
 - 🌱 &nbsp; Actualmente practico y estudio SQL y Python
