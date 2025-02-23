@@ -1,3 +1,6 @@
+
+![banner de portada de linkedin](https://github.com/user-attachments/assets/77a03a39-5c33-419c-b6fb-d1fe7e23f1bc)
+
 ## Hola, Soy Karla. ¡Mucho gusto! 👋
 
 <!--
@@ -31,5 +34,5 @@ Disfrutando de una transición laboral a QA Engineer
 
 - ### 📫🤝🏻 Conecta conmigo
 
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/karla-sedano-sanchez/) 👨🏻‍💻
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/karlasedano-qaengineer/) 👨🏻‍💻
  - Enviame un email a  [Email](mailto:sedano_sanchezkarla321@outlook.com) 💌
